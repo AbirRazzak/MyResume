@@ -24,8 +24,7 @@ jobs:
           root_file: resume.tex
           latexmk_use_lualatex: true
       
-      - name: Upload PDF to Repo
-        run: |
-          git add "resume.pdf"
-          git commit -m "CI Generated Resume"
-          git push
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Resume
+          path: ./resume.pdf
