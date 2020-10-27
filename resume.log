@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.29)  27 OCT 2020 01:54
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.29)  27 OCT 2020 13:54
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1082,10 +1082,10 @@ Here is how much of LuaTeX's memory you used:
  636 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 81 glue_spec,
  7 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1296,3:266,4:191,5:784,6:107,7:5603,8:16,9:555,10:13,11:43
-2
+   avail lists: 1:1,2:1308,3:270,4:193,5:800,6:108,7:5756,8:16,9:559,10:13,11:44
+3
  49443 multiletter control sequences out of 65536+200000
- 94 fonts using 27313787 bytes
+ 94 fonts using 27313947 bytes
  73i,11n,112p,796b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.
 otf><C:/Program Files/MiKTeX/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Re
@@ -1094,7 +1094,7 @@ Pro-LightIt.otf><C:/Program Files/MiKTeX/fonts/opentype/adobe/sourcesanspro/Sour
 ceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf><C:/Program Files/MiKTeX/fonts/op
 entype/public/fontawesome/FontAwesome.otf><./fonts/Roboto-Bold.ttf><./fonts/Robo
 to-Thin.ttf>
-Output written on resume.pdf (1 page, 48549 bytes).
+Output written on resume.pdf (1 page, 48703 bytes).
 
 PDF statistics: 82 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 131072)
