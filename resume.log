@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.29)  30 SEP 2020 21:49
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.7) (format=lualatex 2020.9.29)  27 OCT 2020 01:54
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1085,7 +1085,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:1,2:1296,3:266,4:191,5:784,6:107,7:5603,8:16,9:555,10:13,11:43
 2
  49443 multiletter control sequences out of 65536+200000
- 94 fonts using 27313867 bytes
+ 94 fonts using 27313787 bytes
  73i,11n,112p,796b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.
 otf><C:/Program Files/MiKTeX/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Re
